@@ -5,7 +5,9 @@ Jeder Hohlspiegelmikronfon bestehet aus mindestens einer Spiegel, der die Schall
 
 ![Gleichung2.1](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/Gleichung2.1.gif)  
 
-beschreiben kann. Bei Ellipsoidspiegelform rechnet mann mit allgemeiner Gleichung   
+beschreiben kann. Bei Ellipsoidspiegelform kann mann mit allgemeiner Gleichung   
 
 ![Gleichung2.2](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/gelcihung2.2.gif)  
+
+rechnen.
 
