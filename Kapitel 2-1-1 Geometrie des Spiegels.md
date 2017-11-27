@@ -2,4 +2,3 @@
 Spiegelform
 
 Jeder Hohlspiegelmikronfon bestehet aus mindestens einer Spiegel, der die Schallwelle reflektieren kann.
-![Abb.1](https://github.com/LMShidi/Hohlspiegelmikrofon.git/Hohlspiegelmikrofon/IMG_1125.JPG)
