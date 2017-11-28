@@ -19,3 +19,4 @@ Dabei kann man direkt sehen, das Parabolspiegel verhältet sich besser wenn eine
 ![Gleichung2.3](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/gleichung2.3.gif)  
 Zum beispiel, einem Spiegel mit Durchmesser 200 mm, das auf eine rotierende Parabel mit dessen Gleichung y=0.03x^2 bassiert, hat eine maximale Brennpunktabweichung von 3.5 mm wenn der Abstand 2000 mm beträgt. Zur Prozentzahl kann man schnell umrechnen, die Abweichung besteht nur 0.175% des Messabstands. Solche kleine eine "fehle" würde man gerne vernachlassigen.   
 ![Ellipsoidform](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/Abb2-3.png)   
+123
