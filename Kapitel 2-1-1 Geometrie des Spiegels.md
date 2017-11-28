@@ -1,7 +1,7 @@
 2.1.1.1
 Spiegelform
 
-Jeder Hohlspiegelmikronfon bestehet aus mindestens einer Spiegel, der die Schallwellen reflektieren kann. Im Allgemeinen sind zwei Spielgelformen zur Verfügung stehen, die man in der Prakxis meistens genutzt werden, um die Wellen durch Reflextion zum einen gemeinsamten Brennpunkt zu konzentieren. Die Parabolspiegelform basiert auf eine Rotation einer Parabel ,die man in einer allgemeinen mathematischen Gleichung   
+Jeder Hohlspiegelmikronfon bestehet aus mindestens einer Spiegel, der die Schallwellen reflektieren kann. Im Allgemeinen sind zwei Geometrie zur Verfügung stehen, die man in der Prakxis meistens genutzt werden, um die Wellen durch Reflextion zum einen gemeinsamten Brennpunkt zu konzentieren. Die Parabolspiegelform basiert auf eine Rotation einer Parabel ,die man in einer allgemeinen mathematischen Gleichung   
 
 ![Gleichung2.1](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/Gleichung2.1.gif)  
 
@@ -20,6 +20,8 @@ Dabei kann man direkt sehen, das Parabolspiegel verhältet sich besser wenn eine
 
 mit x=Durchmesser/2 erreicht die maximale Brennpunktabweichung  
 
-Zum beispiel, einem Spiegel mit Durchmesser 200 mm, das auf eine rotierende Parabel mit dessen Gleichung y=0.03x^2 bassiert, hat eine maximale Brennpunktabweichung von 3.5 mm wenn der Abstand 2000 mm beträgt. Zur Prozentzahl kann man schnell umrechnen, die Abweichung besteht nur 0.175% des Messabstands. Solche kleine eine "fehle" würde man gerne vernachlassigen.   
+Zum beispiel, ein Spiegel mit Durchmesser von 200 mm, das auf eine rotierende Parabel mit dessen Gleichung y=0.03x^2 bassiert, hat eine maximale Brennpunktabweichung von 3.5 mm wenn der Abstand 2000 mm beträgt. Zur Prozentzahl kann man schnell umrechnen, die Abweichung besteht nur 0.175% des Messabstands. Solche kleine eine "fehle" würde man gerne vernachlassigen.   
 ![Ellipsoidform](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/Abb2-3.png)   
 Abb. 2-3 Ermittlung der Mikrofonposition am Hohlspiegel für einen bestimmten Messabstand. (nach Helfer 2007)
+
+Außer dem Geometrie des Spiegels kann man aufgrund der Lage des Schwerpunkts des Spiegels die Spiegelformen unterscheiden. 
