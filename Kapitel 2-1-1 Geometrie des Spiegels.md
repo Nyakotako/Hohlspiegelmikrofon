@@ -24,4 +24,15 @@ Zum beispiel, ein Spiegel mit Durchmesser von 200 mm, das auf eine rotierende Pa
 ![Ellipsoidform](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/Abb2-3.png)   
 Abb. 2-3 Ermittlung der Mikrofonposition am Hohlspiegel für einen bestimmten Messabstand. (nach Helfer 2007)
 
-Außer dem Geometrie des Spiegels kann man aufgrund der Lage des Schwerpunkts des Spiegels die Spiegelformen unterscheiden. 
+Außer dem Geometrie des Spiegels kann man aufgrund der Lage des Schwerpunkts des Spiegels die Spiegelformen unterscheiden. Der Focus-balanced reflector hat ein .....
+Der off axis reflector ....  
+
+Größe des Spiegels entspricht Außendurchmesser (200 mm)abhangig mit Wellenlange bzw. Signalfrequezen  (4k)
+
+2.1.1.2  
+Funktionsweise des Produkt parallel quelle
+Gleichung - M wert- durch punktquelle
+
+
+
+
