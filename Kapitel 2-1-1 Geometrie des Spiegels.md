@@ -9,8 +9,10 @@ beschreiben kann. Bei Ellipsoidspiegelform kann man mit allgemeiner Gleichung
 
 ![Gleichung2.2](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/gelcihung2.2.gif)  
 
-rechnen. Zwar beide Spiegeln reflektieren der Schall zum Brennpunkt des Spiegels, aber sie funktionieren nicht gleicherweise.  Mit dem Abb.2-1 versteht man, dass parallel zur Spiegelachse strahlende Schallwellen nach Reflextion auf ein Parabolspiegel sich im Brennpunkt des Spiegels kreuzen. Und die Schallwellen, die von der ersten Brennpunkt des Ellipsoidspiegels F1 ausstrahlen, fokussieren auf der zweiten Brennpunkt des Ellipsoidspiegels F2.(Abb. 2-2) 
+rechnen. Zwar beide Spiegeln reflektieren der Schall zum Brennpunkt des Spiegels, aber sie funktionieren nicht gleicherweise.  Mit dem Abb.2-1 versteht man, dass parallel zur Spiegelachse strahlende Schallwellen nach Reflextion auf ein Parabolspiegel sich im Brennpunkt F des Spiegels kreuzen. Und die Schallwellen, die von der ersten Brennpunkt F1 des Ellipsoidspiegels  ausstrahlen, fokussieren auf der zweiten Brennpunkt F2 des Ellipsoidspiegels .(Abb. 2-2) 
 ![Parabolform](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/ABB2-1.png)   
 Abb.2-1 Funktionsschema eines paraboloiden Hohlspiegelmikrofons (Helfer 2007)
 ![Ellipsoidform](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/ABB2-2.png)   
 Abb. 2-2 Funktionsschema eines ellipsoiden Hohlspiegelmikrofons.(Helfer 2007)
+  
+  
