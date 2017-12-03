@@ -15,13 +15,15 @@ Abb.2-1 Funktionsschema eines paraboloiden Hohlspiegelmikrofons (Helfer 2007)
 ![Ellipsoidform](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/ABB2-2.png)   
 Abb. 2-2 Funktionsschema eines ellipsoiden Hohlspiegelmikrofons.(Helfer 2007)
   
-Dabei kann man direkt sehen, das Parabolspiegel verhältet sich besser wenn eine ebene Quelle sowie 3D Quelle vorhandet und das Ellipsoidspiegel neigt sich zu eine Punktquelle. Aber diese eineindeutige Beziehung steht in der Technik nicht. Trotzdem ist das Ellipsoidspiegel in einige Fallen besser funktioniert als das Parabolspiegel, benutzt man gewöhnlcih das Parabolspiegel. Eine Vorteil des Parabolspiegels ist wenige technische Aufwand der Herstellung. Andere Vorteil ist abhängig mit dem Messabstand zwischen das Spiegel und Punktquelle.(Abb. 2-3) Wenn der Abstand sehr groß und der Durchmesser des Spiegels relativ klein sind, kann man die Strahlen, die von der Punktquelle auskommen, fast wie parallele Strahlen zu sehen. Die entstehende Brennpunktabweichung kann man mit folgender Gleichung berechnen.  
+Dabei kann man direkt sehen, das Parabolspiegel verhältet sich besser wenn eine ebene Quelle sowie 3D Quelle vorhandet und das Ellipsoidspiegel neigt sich zu eine Punktquelle. Aber diese eineindeutige Beziehung steht in der Technik nicht. Trotzdem ist das Ellipsoidspiegel in einige Fallen besser funktioniert als das Parabolspiegel, benutzt man gewöhnlcih das Parabolspiegel.  Wenige technische Aufwand der Herstellung einer Parabolform bringt das Parabolspiegel einen Vorteil. Anderer Vorteil ist abhängig mit dem Messabstand zwischen das Spiegel und Punktquelle.(Abb. 2-3) Wenn der Abstand sehr groß und der Durchmesser des Spiegels relativ klein sind, kann man die Strahlen, die von der Punktquelle auskommen, fast wie parallele Strahlen anzunehemen . Die entstehende Brennpunktabweichung  wird nicht berücksichtigt. Zum beispiel, ein Spiegel mit Durchmesser von 300 mm, das auf eine rotierende Parabel mit dessen Gleichung y=0.05x^2 bassiert, hat eine maximale Brennpunktabweichung von circa 5.53 mm wenn der Abstand 5000 mm beträgt. Zur Prozentzahl kann man schnell umrechnen, die Abweichung besteht nur 0.1106% des Messabstands. Solche kleine eine "fehle" würde man gerne vernachlassigen.   
+
+Die entstehende Brennpunktabweichung kann man mit folgender Gleichung berechnen.  
 ![Gleichung2.3](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/gleichung2.4.gif) 
 
 mit x=Durchmesser/2 erreicht die maximale Brennpunktabweichung  
 
-Zum beispiel, ein Spiegel mit Durchmesser von 200 mm, das auf eine rotierende Parabel mit dessen Gleichung y=0.03x^2 bassiert, hat eine maximale Brennpunktabweichung von 3.5 mm wenn der Abstand 2000 mm beträgt. Zur Prozentzahl kann man schnell umrechnen, die Abweichung besteht nur 0.175% des Messabstands. Solche kleine eine "fehle" würde man gerne vernachlassigen.   
-![Ellipsoidform](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/Abb2-3.png)   
+
+![Punktquelle-Parabol](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/Abb2-3.png)   
 Abb. 2-3 Ermittlung der Mikrofonposition am Hohlspiegel für einen bestimmten Messabstand. (nach Helfer 2007)
 
 Außer dem Geometrie des Spiegels kann man aufgrund der Lage des Schwerpunkts des Spiegels die Spiegelformen unterscheiden. [Der Focus-balanced reflector hat ein .....
