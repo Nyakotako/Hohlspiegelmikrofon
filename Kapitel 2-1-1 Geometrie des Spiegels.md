@@ -19,8 +19,10 @@ Dabei kann man direkt sehen, das Parabolspiegel verhältet sich besser wenn eine
 
 ![Punktquelle-Parabol](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/Abb2-3.png)  
 
-Die mathematischen Beziehungen der in der Beispiel genannte Parameter kann man aus Abb.2-3 herausfinden. Mit der Punktquelle (Position Q) wird die Schallwelle auf ein Parabolspiegel gestrahlt. Die werden zurück reflektiert und auf Punkt B mit der Symmetrielinie des Spiegels geschnitten. Der Abstand b zwischen Punkt B und der Spiegel wird mit der Gleichung  
+Die mathematischen Beziehungen der in der Beispiel genannte Parameter kann man aus Abb.2-3 herausfinden. Mit der Punktquelle (Position Q) wird die Schallwelle auf ein Parabolspiegel gestrahlt. Die werden zurück reflektiert und auf Punkt B mit der Symmetrielinie des Spiegels geschnitten. Der Abstand b zwischen Punkt B und der Spiegel wird mit der Gleichung    
+
 ![Gleichung2.5](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/gleichung2.5.png) 
+  
 ermittelt.
 
 
