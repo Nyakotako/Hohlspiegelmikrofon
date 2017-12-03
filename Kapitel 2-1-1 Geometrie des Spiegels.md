@@ -18,6 +18,9 @@ Abb. 2-2 Funktionsschema eines ellipsoiden Hohlspiegelmikrofons.(Helfer 2007)
 Dabei kann man direkt sehen, das Parabolspiegel verhältet sich besser wenn eine ebene Quelle sowie 3D Quelle vorhandet und das Ellipsoidspiegel neigt sich zu eine Punktquelle. Aber diese eineindeutige Beziehung steht in der Technik nicht. Trotzdem ist das Ellipsoidspiegel in einige Fallen besser funktioniert als das Parabolspiegel, benutzt man gewöhnlcih das Parabolspiegel.  Wenige technische Aufwand der Herstellung einer Parabolform bringt das Parabolspiegel einen Vorteil. Anderer Vorteil ist abhängig mit dem Messabstand zwischen das Spiegel und Punktquelle.(Abb. 2-3) Wenn der Abstand sehr groß und der Durchmesser des Spiegels relativ klein sind, kann man die Strahlen, die von der Punktquelle auskommen, fast wie parallele Strahlen anzunehemen . Die entstehende Brennpunktabweichung  wird nicht berücksichtigt. Zum beispiel, ein Spiegel mit Durchmesser von 300 mm, das auf eine rotierende Parabel mit dessen Gleichung y=0.05x^2 bassiert, hat eine maximale Brennpunktabweichung von circa 5.53 mm wenn der Abstand 5000 mm beträgt. Zur Prozentzahl kann man schnell umrechnen, die Abweichung besteht nur 0.1106% des Messabstands. Solche kleine eine "fehle" würde man gerne vernachlassigen.   
 
 ![Punktquelle-Parabol](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/Abb2-3.png)  
+Abb.2-3  Ermittlung der Mikrofonposition am Hohlspiegel für einen bestimmten Messabstand. (nach Helfer2007)
+
+
 
 Die mathematischen Beziehungen der in der Beispiel genannte Parameter kann man aus Abb.2-3 herausfinden. Mit der Punktquelle (Position Q) wird die Schallwelle auf ein Parabolspiegel gestrahlt. Die werden zurück reflektiert und auf Punkt B mit der Symmetrielinie des Spiegels geschnitten. Der Abstand b zwischen Punkt B und der Spiegel wird mit der Gleichung    
 
