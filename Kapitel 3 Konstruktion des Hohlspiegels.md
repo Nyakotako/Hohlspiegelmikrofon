@@ -1,6 +1,7 @@
 3-1 Spiegelform (Math grundlagen)
 
 Jeder Hohlspiegelmikronfon bestehet aus mindestens einer Spiegel, der die Schallwellen reflektieren kann. Das Spiegel funktioniert als ein Signalverstärker. Im Allgemein sind zwei Geometrie zur Verfügung stehen, die man auch in der Prakxis meistens genutzt werden, um die Wellen durch Reflextion des Spiegels zum einen gemeinsamten Brennpunkt zu verstärken kann. Sie sind die Parabolspiegelform und  die Ellipsoidspiegelform. 
+
 Die Parabolspiegelform basiert auf eine Rotation einer Normalparabel ,die man in einer allgemeinen mathematischen Gleichung   
 
 ![Gleichung2.1](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/Gleichung2.1.gif)  
