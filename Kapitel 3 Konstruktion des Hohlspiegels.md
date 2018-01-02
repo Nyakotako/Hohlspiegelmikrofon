@@ -14,7 +14,7 @@ Bei der Ellipsoidspiegelform kann man mit allgemeiner Gleichung
 
 rechnen. Wobei X,Y,Z sind begrenzt nach Spiegeldurchmesser und die Maximaltief des Spiegels.
 
-Beide 3D-Spiegelformen hat seine eigene 2D mathematische Entsprechung. Der Parabolspiegelform bzw. Paraboliod entwickelt sich aus einer Normalparabel und der Ellipsoidspiegelform aus einer Ellipse. Mit solche mathematischen Vereinfachungen kann die Reflextieren-Verhaltnisse der beiden Spiegeln anschaulich dagestellt werden. Die detailliert Reflextionen werden in folgend Text erklärt. Und die mathmathischen Vereinfachungen werden als Ersetzungen der Spiegelformen genutzt.
+Beide 3D-Spiegelformen hat seine eigene 2D mathematische Entsprechung. Der Parabolspiegelform bzw. Paraboliod entwickelt sich aus einer Normalparabel und der Ellipsoidspiegelform aus einer Ellipse. Mit solche mathematischen Vereinfachungen kann die Reflextieren-Verhaltnisse der beiden Spiegeln anschaulich dargestellt werden. Die detailliert Reflextionen werden in folgend Text erklärt. Und die mathmathischen Vereinfachungen werden als Ersetzungen der Spiegelformen genutzt.
 
 
 3-2
