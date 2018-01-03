@@ -17,11 +17,16 @@ rechnen. Wobei X,Y,Z sind begrenzt nach Spiegeldurchmesser und die Maximaltief d
 Beide 3D-Spiegelformen hat seine eigene 2D mathematische Entsprechung. Der Parabolspiegelform bzw. Paraboliod entwickelt sich aus einer Normalparabel und der Ellipsoidspiegelform aus einer Ellipse. Mit solche mathematischen Vereinfachungen kann die Reflextieren-Verhaltnisse der beiden Spiegeln anschaulich dargestellt werden. Die detailliert Reflextionen werden in folgend Text erklärt. Und die mathmathischen Vereinfachungen werden als Ersetzungen der Spiegelformen genutzt.
 
 
-3-2
+3-2 Reflextionsverhältnisse der verschiedenen Spiegelformen
 
 
+In der Pysik wird die Reflextion die Welle(Schall oder Licht) nach Fermatsche Prinzip abgeleitet. Unter eine ungeänderte Umgebung, d.h. Brechungsindex konstant bleibt, wird die Welle bei der Reflextion so verhaltet,dass der Einfallswinkel dem Ausfallswinkel gelich ist.(1)
 
-Zwar beide Spiegeln reflektieren der Schall zum Brennpunkt des Spiegels, aber sie funktionieren nicht gleicherweise.  Mit dem Abb.2-1 versteht man, dass parallel zur Spiegelachse strahlende Schallwellen nach Reflextion auf ein Parabolspiegel sich im Brennpunkt F des Spiegels kreuzen. Und die Schallwellen, die von der ersten Brennpunkt F1 des Ellipsoidspiegels  ausstrahlen, fokussieren auf der zweiten Brennpunkt F2 des Ellipsoidspiegels .(Abb. 2-2) 
+![Reflextionsgesetz](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/Reflextion.png) 
+
+Zwar beide Spiegeln reflektieren der Schall zum Brennpunkt des Spiegels, aber sie funktionieren nicht gleicherweise.
+
+Mit dem Abb.3-1 versteht man, dass parallel zur Spiegelachse strahlende Schallwellen nach Reflextion auf ein Parabolspiegel sich im Brennpunkt F des Spiegels kreuzen. Und die Schallwellen, die von der ersten Brennpunkt F1 des Ellipsoidspiegels  ausstrahlen, fokussieren auf der zweiten Brennpunkt F2 des Ellipsoidspiegels .(Abb. 2-2) 
 ![Parabolform](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/ABB2-1.png)   
 Abb.2-1 Funktionsschema eines paraboloiden Hohlspiegelmikrofons (Helfer 2007)
 ![Ellipsoidform](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/ABB2-2.png)   
