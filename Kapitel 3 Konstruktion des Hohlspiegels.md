@@ -6,7 +6,7 @@ Die Parabolspiegelform basiert auf eine Rotation einer Normalparabel ,die man in
 
 ![Gleichung2.1](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/Gleichung2.1.gif)  
 
-beschreiben kann. 
+beschreiben kann, Wobei derrren Brennpunkt auf 0.25m auf y Achse liegt. 
 
 Bei der Ellipsoidspiegelform kann man mit allgemeiner Gleichung   
 
@@ -42,8 +42,15 @@ Der Spiegel in Parabolspiegelform oder Ellopsoidspiegelform wird dadurch entwick
 
 Zum beispiel, ein Parabolspiegel mit Durchmesser von 300 mm, der auf eine rotierende Parabel mit dessen Gleichung y=0.05x^2 bassiert, hat eine maximale Brennpunktabweichung von circa 5.53 mm bei einem Messabstand von 5000 mm. Nach Umrechnen in Prozentzahl zeigt die Abweichung lediglich 0.1106% des Messabstandes. Solche kleine eine "Fehler" würde man gerne vernachlassigen.   
 
-3-3 Zwei Variation des Parabolspiegelform
+3-3 Eine mögliche Verbesserung der Parabolspiegel
 
+
+In den Alltag hat der Parabolspiegel einer großen Verwendungsbereich als einer Signalverstärker. Eine der am bekanntesten Anwendungen ist die Satellitenschüssel. Die besteht aus einer relative flache Spiegel als Antennen und ein Signalemfanger,der auf der Brennpunkt des Spiegels aber nicht auf Spiegelachse des Spiegeles liegt. Solche Form wird in der Antennentechnik Offset-gespeiste Antennen(in Englisch Off-axis reflectors) genannt. Zum Vergleichen mit vorher gesprochenen Parabolspiegelform , auch in Antennentechnik als fokusgespeiste, symmetrisch zur Achse ausgeleuchteten Parabolspiegel(in Englisch Focus-balanced reflector) bezeichnet, befindet sich der Brennpunkt des Spiegels nicht im Bereich, wo der Schallwellen ankommen. (462zitat)
+
+
+Bei dem Offset gespeiste Spiegel verhindert der Signalemfänger (in der Antennentechnik auch Strahler möglich ) kein Signal, weil es einfach außerhalb der Signalstrahlungsrichtung liegt. Um diese Verbesserung zu realisieren, wird keinen rotationssymmtrische Parabolspiegel, sondern nur einen Parabolreflektorausschnitt genutzt. Maximale nutzbare Reflextionsfläche bringt Offset gespeiste Spiegel einen Vorteil, aber im Vergleich zum  fokusgespeisten Spiegel besteht der einer Aufwand über konstruktive Berechung. In der Konstruktion eines bewegbaren sowie drehbaren Spiegeles ist der fokusgespeiste Spiegel überwiegend. Es ist einfacher als der Offset gespeiste Spiegel zu simulieren, weil der Schwerpunkt der fokusgespeisten Spiegel und seine Brennpunkt zusammenfallend sind.  (Bild von Satellitenschussel?) (restzitat 3-3)
+
+3-4 Bestimmung von Parameter des Spiegels
 
 
 
