@@ -37,8 +37,17 @@ Die Schallwellen, die von der ersten Brennpunkt F1 des Teilellipses(Vereinfachun
 ![Ellipsoidform](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/ABB2-2.png)   
 Abb. 3-3 Funktionsschema eines vereinfachten ellipsoiden Hohlspiegelmikrofons.(Helfer 2007)
 
-Der Spiegel in Parabolspiegelform oder Ellopsoidspiegelform, wird dadurch entwickelt, dass ihre entsprechende Vereinfachungen um seinen Spiegelachse um 180 grad drehen. Die Brennpunkte der Spiegel sind identisch mit den ihrer Vereinfachungen.
-Dabei kann man direkt sehen, das Parabolspiegel verhältet sich besser wenn eine ebene Quelle sowie 3D Quelle vorhandet und das Ellipsoidspiegel neigt sich zu eine Punktquelle. Aber diese eineindeutige Beziehung steht in der Technik nicht. Trotzdem ist das Ellipsoidspiegel in einige Fallen besser funktioniert als das Parabolspiegel, benutzt man gewöhnlcih das Parabolspiegel.  Wenige technische Aufwand der Herstellung einer Parabolform bringt das Parabolspiegel einen Vorteil. Anderer Vorteil ist abhängig mit dem Messabstand zwischen das Spiegel und Punktquelle.(Abb. 2-3) Wenn der Abstand sehr groß und der Durchmesser des Spiegels relativ klein sind, kann man die Strahlen, die von der Punktquelle auskommen, fast wie parallele Strahlen anzunehemen . Die entstehende Brennpunktabweichung  wird nicht berücksichtigt. Zum beispiel, ein Spiegel mit Durchmesser von 300 mm, das auf eine rotierende Parabel mit dessen Gleichung y=0.05x^2 bassiert, hat eine maximale Brennpunktabweichung von circa 5.53 mm wenn der Abstand 5000 mm beträgt. Zur Prozentzahl kann man schnell umrechnen, die Abweichung besteht nur 0.1106% des Messabstands. Solche kleine eine "fehle" würde man gerne vernachlassigen.   
+Der Spiegel in Parabolspiegelform oder Ellopsoidspiegelform wird dadurch entwickelt, dass ihre entsprechende Vereinfachungen um seinen Spiegelachse um 180 grad drehen. Die Brennpunkte der Spiegel sind identisch mit den ihrer Vereinfachungen. Dabei unterschieden die zwei Spiegelformen sich in Neigung der verschiedenen Schallquellen. Das Parabolspiegel verhältet sich besser bei eine ebene Schallquelle sowie 3D Schallquelle, während das Ellipsoidspiegel sich zu eine Punktschallquelle neigt. Aber diese eineindeutige Beziehung existiert in der Technik nicht. Trotzdem ist das Ellipsoidspiegel in einige Fallen besser funktioniert als das Parabolspiegel, wird  das Parabolspiegel gewöhnlich in der Praxis benutzt.Die Gründe liegen nicht nur in der wenigen Aufwand bei der Herstellung einer Paraboliodform, sondern auch in der vernachlässigbaren entstehenden Abweichung der Parabolspiegelform, wenn der Messabstand zwischen dem Spiegel und der Punktschallquelle weit größe als der Spiegeldurchmesser ist. Die Strahlen, die von der Punktschallquelle herausgekommen werden, sind unter der oben erwähnten Bedingung als parallele Strahlen anzunehemen. Die dadurch entstehende Brennpunktabweichung ist so klein, dass nicht mehr berücksichtig wird.  
+
+
+Zum beispiel, ein Parabolspiegel mit Durchmesser von 300 mm, der auf eine rotierende Parabel mit dessen Gleichung y=0.05x^2 bassiert, hat eine maximale Brennpunktabweichung von circa 5.53 mm bei einem Messabstand von 5000 mm. Nach Umrechnen in Prozentzahl zeigt die Abweichung lediglich 0.1106% des Messabstandes. Solche kleine eine "Fehler" würde man gerne vernachlassigen.   
+
+3-3 Zwei Variation des Parabolspiegelform
+
+
+
+
+
 
 ![Punktquelle-Parabol](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/Abb2-3.png)  
 Abb.2-3  Ermittlung der Mikrofonposition am Hohlspiegel für einen bestimmten Messabstand. (nach Helfer2007)
