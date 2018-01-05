@@ -22,7 +22,8 @@ Beide 3D-Spiegelformen haben seine eigene 2D mathematische Entsprechung. Der Par
 
 In der Pysik wird die Reflextion die Welle(Schall oder Licht) nach Fermatsche Prinzip abgeleitet. Unter eine ungeänderte Umgebung, d.h. Brechungsindex konstant bleibt, wird die Welle bei der Reflextion so verhaltet,dass der Einfallswinkel alpha dem Ausfallswinkel beta gleich ist.(1)
 
-![Reflextionsgesetz](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/Reflextion.png) 
+![Reflextionsgesetz](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/Reflextion.png)
+
 Abb.3-1 Funktionsschema des Reflextionsgesetzes 
 
 
