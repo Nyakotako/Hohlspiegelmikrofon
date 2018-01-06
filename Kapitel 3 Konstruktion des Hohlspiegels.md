@@ -70,34 +70,19 @@ Abb.3-4  Ermittlung der Mikrofonposition am Hohlspiegel für einen bestimmten Me
 Nach Formel der Reflextionsgesetz wird die Entfernung b mit Gleichung
 ![Gleichung2.5](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/gleichung2.5.png) 
 
-berechnet. Dadruch wird bMAX bei X=Xmax bzw. X=Durchmesser/2 erreicht. Zum Beispiel wird der Messabstand a der Hohlspiegelmikrofon auf 3000mm angefordert. Und der Durchmesser des Spiegels beträgt 200mm(Fussnot2 200mm kann alle Frequenbereich oberhalb 1715Hz reflektieren, geeignet für ein laborversuch mit 4k Hz). Dann ist die Entfernung bmax nur mit m abhangig.
+berechnet. Dadruch wird bMAX bei X=Xmax bzw. X=Durchmesser/2 erreicht. Zum Beispiel wird der Messabstand a der Hohlspiegelmikrofon auf 5000mm angefordert. Und der Durchmesser des Spiegels beträgt 300mm(Fussnot2 300mm kann alle Frequenbereich oberhalb 1143Hz reflektieren, geeignet für ein laborversuch mit 4k Hz). Dann ist die Entfernung bmax nur mit m abhangig. Unter eine Akzeptierbare Abweichung zum Beispiel 5mm von der Entfernung des Brennpunktes des Spiegeles, wird der bmax gerechnet. Und der Parameter m auch dadurch lösbar.
 
-Das Ziel ist ,um der Brennpunkt B zu finden, der Punkt B die optimal Position der Mikrofon bei Ebenen- und 3D-schallquelle ist. Bei der Punktschallquelle ist es nicht so einfach. Der Punkt B verschiebt sich von den Brennpunkt des Spiegeles nach bmax wie einen Parabel. (Abb.3-5)
+Das Ziel ist ,um der Brennpunkt B zu finden, der Punkt B die optimal Position der Mikrofon bei Ebenen- und 3D-schallquelle ist. Bei der Punktschallquelle ist es nicht so einfach. Der Punkt B verschiebt sich von den Brennpunkt des Spiegeles nach bmax. Wie bei der Abb.3-5 gezeigt, Entfernung b steig bei zunehemenden X immer stärker. Bei zunehmung der X von 80% beträgt nur Halb Steigung von b. 
 
 ![PARABEL BEISPIEL](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/Mwert0,03Abstand500.bmp) 
 
 Abb3-5 Entfernung b (Ordinatenachse) bei verschiedenen Reflextionpunkt X des Spiegeles(Abszissenachse) bei m=0.03 und Messabstand a=5000mm
 
-Im Vergleich zu der Ebeneschallquelle, so es ein Position für Mikro
+Es wird mit der Ebenen- und 3D-schallquelle zusammengefasst, wo der optimale Position der Mikrofon auf Brennpunkt des Spiegeles liegt, dass optimale Position der Mikrofon nicht auf Brennpunkt des Spiegeles festliegen soll, aber einbisschen nach Richtung bMAX verschieben wird. Noch wegen der Oberflächen des Mikrofones kann die optimale Position noch in Richtung bMAX geschiebt werden, damit der Mikrofon mehre reflektierende Schallwellen emfangen kann.(selbgezeichnet skkizze Abschieben der Mikrofon vorher und nachher)
 
+3-5(Test?)Verhalten mit einen zusätzlichen Störschallquelle
 
+Der Beeinfluss einer zusätzlichen Störquelle ist nicht mit Strahlungsarten zu tun. Entwieder bei der Punktquelle oder Bei der Ebenen- und 3D-schallquelle spielt nur der Entfernung zwischen der Schallquellen eine Rolle. Je nährer die beiden Quellen miteinander liegen, desto stärker der Störwirkung ist. In der Mathematischen Modulierung werden die refleksierte Schallwellen von der Störquelle nicht auf der Brennpunkt des Spiegeles bzw. die Position der Mikrofon fokusiert. Eigentlich werden sie gar nicht fokusiert, sondern nach verschiedene Richtungen abgelenkt. In der Realität kann die Störwirkung  mit verschiedene Empfindlichkeit des Mikrofon abhängig sein. Mit der Test mit 200mm Entfernung der Schallquellen verhaltet der Parabolspiegelmikron mit (Bedingung) so.....
 
-
-mit x=Durchmesser/2 erreicht die maximale Brennpunktabweichung  
-
-
- 
-Abb. 2-3 Ermittlung der Mikrofonposition am Hohlspiegel für einen bestimmten Messabstand. (nach Helfer 2007)
-
-Außer dem Geometrie des Spiegels kann man aufgrund der Lage des Schwerpunkts des Spiegels die Spiegelformen unterscheiden. [Der Focus-balanced reflector hat ein .....
-Der off axis reflector ....  
-
-Größe des Spiegels entspricht Außendurchmesser (200 mm)abhangig mit Wellenlange bzw. Signalfrequezen  (4k)
-
-2.1.1.2  
-Funktionsweise des Produkt parallel quelle
-Gleichung - M wert- durch punktquelle
-]
-
-
+3-6 Welle ebenenheit(Grundlagen Akustik)
 
