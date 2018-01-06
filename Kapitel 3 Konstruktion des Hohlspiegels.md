@@ -59,7 +59,7 @@ Zuerst ist der Durchmesser des Parabolspiegeles festzulegen. In der technischen 
 
 Die mathematische Gleichung der Parabel, was danach durch Rotation zur Herstellung des Parabolspiegeles genutzt wird, ist stark abhangig mit dem in Anforderung gegebene Messabstand (a). Diese Beziehung ist nur bei der Punktschallquelle existiert. Mit der Ebene- oder 3D-Schallquelle fixiert der Brennpunkt auf der Spiegelachse in Entfernung b von
 
-![Brennpunktnormalentfernung](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/gleichung2.7.gif), womit m ist der einziger Parameter der Parabelgleichung.
+![Brennpunktnormalentfernung](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/gleichung2.7.gif), womit m ist der einziger Parameter der Parabelgleichung y=mx².
 
 
 Der Punktschallquelle-Fall wird wie Abb.3-4 gezeichnet zusammengefasst. Die Schallwellen werden von Schallquelle Q ausgestrahlt bis auf dem Hohlspiegel getroffen. Anschließend werden die Schallwellen refletiert und mit der Spiegelachse auf Punkt B in Entfernung b gekeutzt. In diese Fall ist der Punkt B für jeden Schallwelle, die auf Punkt (Xp;Yp) des Hohlspiegeles mit verschiedenen Entfernung von Spiegelachse eingefallen ist, unterschiede. Die Entfernung b der Punkten B  bildet sich einen halb-geschlossenen Intervall (1/4m; bmax]. Das Maximul von Entfernung b gehört zu der Reflextion von der Rand des Hohlspiegeles. Das Minimul von Entfernung b wird immer zu der Brennpunkt des parallelstrahlenden Reflextionsfall angenähert.
@@ -67,15 +67,18 @@ Der Punktschallquelle-Fall wird wie Abb.3-4 gezeichnet zusammengefasst. Die Scha
 ![Punktquelle-Parabol](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/Abb2-3.png)  
 Abb.3-4  Ermittlung der Mikrofonposition am Hohlspiegel für einen bestimmten Messabstand. (nach Helfer2007)
 
-Nach Formel von Refletionsgesetz wird die Entfernung b mit Gleichung
+Nach Formel der Reflextionsgesetz wird die Entfernung b mit Gleichung
 ![Gleichung2.5](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/gleichung2.5.png) 
 
-berechnet. Dadruch wird bMAX bei X=Xmax bzw. X=Durchmesser/2 erreicht. 
+berechnet. Dadruch wird bMAX bei X=Xmax bzw. X=Durchmesser/2 erreicht. Zum Beispiel wird der Messabstand a der Hohlspiegelmikrofon auf 3000mm angefordert. Und der Durchmesser des Spiegels beträgt 200mm(Fussnot2 200mm kann alle Frequenbereich oberhalb 1715Hz reflektieren, geeignet für ein laborversuch mit 4k Hz). Dann ist die Entfernung bmax nur mit m abhangig.
 
+Das Ziel ist ,um der Brennpunkt B zu finden, der Punkt B die optimal Position der Mikrofon bei Ebenen- und 3D-schallquelle ist. Bei der Punktschallquelle ist es nicht so einfach. Der Punkt B verschiebt sich von den Brennpunkt des Spiegeles nach bmax wie einen Parabel. (Abb.3-5)
 
+![PARABEL BEISPIEL](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/Mwert0,03Abstand500.bmp) 
+Abb3-5 Entfernung b (Ordinatenachse) bei verschiedenen Reflextionpunkt X des Spiegeles(Abszissenachse) bei m=0.03 und Messabstand a=5000mm
 
+Im Vergleich zu der Ebeneschallquelle, so es ein Position für Mikro
 
-Die entstehende Brennpunktabweichung kann man mit folgender Gleichung berechnen.  
 
 
 
