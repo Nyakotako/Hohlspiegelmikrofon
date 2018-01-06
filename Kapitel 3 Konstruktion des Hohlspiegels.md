@@ -55,7 +55,12 @@ Bei dem Offset gespeiste Spiegel verhindert der Signalemfänger (in der Antennen
 
 In den letzten Abschnitten kommt nur die qualitätive Denkung der Spiegelform in Frage. In folgend Text ist die Quantität des Spiegeles auseinandergesetzt. Die Bestimmung der Hauptabmessung des Spiegels wird durch ein Beispiel von einen gewöhnlichen paraboloiden Hohlspiegel erklärt, da er in der Praxis beliebte Form ist. 
 
-Zuerst ist der Durchmesser des Parabolspiegeles festzulegen. In der technischen Optik ist ein Spiegel nur zur Reflextion anwendbar, wenn deren Strahlquerschnitt größer als der Lichtswellenlänge ist. (Zitat 3-4 37) Im Vergleich dazu wird in der Akustik Lichtwellelänge durch Schallwellenlänge ersetzt. Das heißt, der Durchmesser muss minderstens größer ale der Wellenlänge der eingestrahlte Schallwellen. Mit anderen Worten, je großer der Spiegel ist, desto breiterer Frequenzbereich sich bei der Reflextion anwenden lässt.(Fussnot1 Frequenz einer bestimmten Schallwelle kann man mit Gleichung f(Frequenz)=c()/lambda \lambda  ) 
+Zuerst ist der Durchmesser des Parabolspiegeles festzulegen. In der technischen Optik ist ein Spiegel nur zur Reflextion anwendbar, wenn deren Strahlquerschnitt größer als der Lichtswellenlänge ist. (Zitat 3-4 37) Im Vergleich dazu wird in der Akustik Lichtwellelänge durch Schallwellenlänge ersetzt. Das heißt, der Durchmesser muss minderstens größer ale der Wellenlänge der eingestrahlte Schallwellen. Mit anderen Worten, je großer der Spiegel ist, desto breiterer Frequenzbereich sich bei der Reflextion anwenden lässt.(Fussnot1 Frequenz einer bestimmten Schallwelle kann man mit Gleichung f(Frequenz)=c(Schallgeschwendigkeit 343m/s)/lambda(Wellenlänge) umrechnen) 
+
+Die mathematische Gleichung der Parabel, was danach durch Rotation zur Herstellung des Parabolspiegeles genutzt wird, ist stark abhangig mit dem in Anforderung gegebene Messabstand (a). Diese Beziehung ist nur bei der Punktschallquelle existiert. Mit der Ebene- oder 3D-Schallquelle fixiert der Brennpunkt auf der Spiegelachse in Entfernung von
+
+![Brennpunktnormalentfernung](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/gleichung2.7.gif).
+  
 
 
 
