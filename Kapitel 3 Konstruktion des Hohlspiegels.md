@@ -75,6 +75,7 @@ berechnet. Dadruch wird bMAX bei X=Xmax bzw. X=Durchmesser/2 erreicht. Zum Beisp
 Das Ziel ist ,um der Brennpunkt B zu finden, der Punkt B die optimal Position der Mikrofon bei Ebenen- und 3D-schallquelle ist. Bei der Punktschallquelle ist es nicht so einfach. Der Punkt B verschiebt sich von den Brennpunkt des Spiegeles nach bmax wie einen Parabel. (Abb.3-5)
 
 ![PARABEL BEISPIEL](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/Mwert0,03Abstand500.bmp) 
+
 Abb3-5 Entfernung b (Ordinatenachse) bei verschiedenen Reflextionpunkt X des Spiegeles(Abszissenachse) bei m=0.03 und Messabstand a=5000mm
 
 Im Vergleich zu der Ebeneschallquelle, so es ein Position für Mikro
