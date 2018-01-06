@@ -53,9 +53,9 @@ Bei dem Offset gespeiste Spiegel verhindert der Signalemfänger (in der Antennen
 
 3-4 Bestimmung von Parameter des Spiegels
 
-In der vorherliegend Kapitel sind nur die Qualität  des Spiegeles dargestellt. In folgend Text kommt die Quantität des Spiegeles in Frage. Die Bestimmung der Hauptabmessung des Spiegels wird durch ein Beispiel von einen gewöhnlichen paraboloiden Hohlspiegel erklärt, da er in der Praxis beliebte Form ist. 
+In den letzten Abschnitten kommt nur die qualitätive Denkung der Spiegelform in Frage. In folgend Text ist die Quantität des Spiegeles auseinandergesetzt. Die Bestimmung der Hauptabmessung des Spiegels wird durch ein Beispiel von einen gewöhnlichen paraboloiden Hohlspiegel erklärt, da er in der Praxis beliebte Form ist. 
 
-Zuerst 
+Zuerst ist der Durchmesser des Parabolspiegeles festzulegen. In der technischen Optik ist ein Spiegel nur zur Reflextion anwendbar, wenn deren Strahlquerschnitt größer als der Lichtswellenlänge ist. (Zitat 3-4 37) Im Vergleich dazu wird in der Akustik Lichtwellelänge durch Schallwellenlänge ersetzt. Das heißt, der Durchmesser muss minderstens größer ale der Wellenlänge der eingestrahlte Schallwellen. Mit anderen Worten, je großer der Spiegel ist, desto breiterer Frequenzbereich sich bei der Reflextion anwenden lässt.(Fussnot1 Frequenz einer bestimmten Schallwelle kann man mit Gleichung f(Frequenz)=c()/lambda \lambda  ) 
 
 
 
