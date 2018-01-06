@@ -57,17 +57,15 @@ In den letzten Abschnitten kommt nur die qualitätive Denkung der Spiegelform in
 
 Zuerst ist der Durchmesser des Parabolspiegeles festzulegen. In der technischen Optik ist ein Spiegel nur zur Reflextion anwendbar, wenn deren Strahlquerschnitt größer als der Lichtswellenlänge ist. (Zitat 3-4 37) Im Vergleich dazu wird in der Akustik Lichtwellelänge durch Schallwellenlänge ersetzt. Das heißt, der Durchmesser muss minderstens größer ale der Wellenlänge der eingestrahlte Schallwellen. Mit anderen Worten, je großer der Spiegel ist, desto breiterer Frequenzbereich sich bei der Reflextion anwenden lässt.(Fussnot1 Frequenz einer bestimmten Schallwelle kann man mit Gleichung f(Frequenz)=c(Schallgeschwendigkeit 343m/s)/lambda(Wellenlänge) umrechnen) 
 
-Die mathematische Gleichung der Parabel, was danach durch Rotation zur Herstellung des Parabolspiegeles genutzt wird, ist stark abhangig mit dem in Anforderung gegebene Messabstand (a). Diese Beziehung ist nur bei der Punktschallquelle existiert. Mit der Ebene- oder 3D-Schallquelle fixiert der Brennpunkt auf der Spiegelachse in Entfernung von
+Die mathematische Gleichung der Parabel, was danach durch Rotation zur Herstellung des Parabolspiegeles genutzt wird, ist stark abhangig mit dem in Anforderung gegebene Messabstand (a). Diese Beziehung ist nur bei der Punktschallquelle existiert. Mit der Ebene- oder 3D-Schallquelle fixiert der Brennpunkt auf der Spiegelachse in Entfernung b von
 
-![Brennpunktnormalentfernung](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/gleichung2.7.gif).
-  
-
+![Brennpunktnormalentfernung](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/gleichung2.7.gif), womit m ist der einziger Parameter der Parabelgleichung.
 
 
-
+Der Punktschallquelle-Fall wird wie Abb.3-4 gezeichnet zusammengefasst. Die Schallwellen werden von Schallquelle Q ausgestrahlt bis auf dem Hohlspiegel getroffen. Anschließend werden die Schallwellen refletiert und mit der Spiegelachse auf Punkt B in Entfernung b gekeutzt. In diese Fall ist der Punkt B für jeden Schallwelle, die auf Punkt (Xp;Yp) des Hohlspiegeles mit verschiedenen Entfernung von Spiegelachse eingefallen ist, unterschiede. Die Entfernung b der Punkten B  bildet sich einen halb-geschlossenen Intervall (1/4m; bmax]. Das Maximul von Entfernung b gehört zu der Reflextion von der Rand des Hohlspiegeles. Das Minimul von Entfernung b wird immer zu der Brennpunkt des parallelstrahlenden Reflextionsfall angenähert.
 
 ![Punktquelle-Parabol](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/Abb2-3.png)  
-Abb.2-3  Ermittlung der Mikrofonposition am Hohlspiegel für einen bestimmten Messabstand. (nach Helfer2007)
+Abb.3-4  Ermittlung der Mikrofonposition am Hohlspiegel für einen bestimmten Messabstand. (nach Helfer2007)
 
 
 
