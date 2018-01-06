@@ -53,6 +53,10 @@ Bei dem Offset gespeiste Spiegel verhindert der Signalemfänger (in der Antennen
 
 3-4 Bestimmung von Parameter des Spiegels
 
+In der vorherliegend Kapitel sind nur die Qualität  des Spiegeles dargestellt. In folgend Text kommt die Quantität des Spiegeles in Frage. Die Bestimmung der Hauptabmessung des Spiegels wird durch ein Beispiel von einen gewöhnlichen paraboloiden Hohlspiegel erklärt, da er in der Praxis beliebte Form ist. 
+
+Zuerst 
+
 
 
 
