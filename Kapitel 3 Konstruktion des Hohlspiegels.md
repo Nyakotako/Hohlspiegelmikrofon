@@ -67,17 +67,12 @@ Der Punktschallquelle-Fall wird wie Abb.3-4 gezeichnet zusammengefasst. Die Scha
 ![Punktquelle-Parabol](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/Abb2-3.png)  
 Abb.3-4  Ermittlung der Mikrofonposition am Hohlspiegel für einen bestimmten Messabstand. (nach Helfer2007)
 
-
-
-Die mathematischen Beziehungen der in der Beispiel genannte Parameter kann man aus Abb.2-3 herausfinden. Mit der Punktquelle (Position Q) wird die Schallwelle auf ein Parabolspiegel gestrahlt. Die werden zurück reflektiert und auf Punkt B mit der Symmetrielinie des Spiegels geschnitten. Der Abstand b zwischen Punkt B und der Spiegel kann mit der Gleichung    
-
+Nach Formel von Refletionsgesetz wird die Entfernung b mit Gleichung
 ![Gleichung2.5](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/gleichung2.5.png) 
-  
-ermitteln außer x=0(x=0 bedeutet keine Schnittpunkt B ,einstrahlen gleich ausstrahlen #Fussnot 1).Der Schnittpunkt B in dieser Fall sind stark abhangig mit m(Basisgleichung des Parabel) und x(Reflexpunkt des Spiegel). Zum Vergleichen mit parallel gestahlende Welle bleiben der Schnittpunkt B immer auf einer Position, die wird man mit   
 
-![Gleichung2.7](https://github.com/LMShidi/Hohlspiegelmikrofon/blob/master/Bilder/gleichung2.7.gif) 
-  
-gerechnet.
+berechnet. Dadruch wird bMAX bei X=Xmax bzw. X=Durchmesser/2 erreicht. 
+
+
 
 
 Die entstehende Brennpunktabweichung kann man mit folgender Gleichung berechnen.  
