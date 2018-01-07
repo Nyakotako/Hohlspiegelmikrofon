@@ -84,5 +84,5 @@ Es wird mit der Ebenen- und 3D-schallquelle zusammengefasst, wo der optimale Pos
 
 Der Beeinfluss einer zusätzlichen Störquelle ist nicht mit Strahlungsarten zu tun. Entwieder bei der Punktquelle oder Bei der Ebenen- und 3D-schallquelle spielt nur der Entfernung zwischen der Schallquellen eine Rolle. Je nährer die beiden Quellen miteinander liegen, desto stärker der Störwirkung ist. In der Mathematischen Modulierung werden die refleksierte Schallwellen von der Störquelle nicht auf der Brennpunkt des Spiegeles bzw. die Position der Mikrofon fokusiert. Eigentlich werden sie gar nicht fokusiert, sondern nach verschiedene Richtungen abgelenkt. In der Realität kann die Störwirkung  mit verschiedene Empfindlichkeit des Mikrofon abhängig sein. Mit der Test mit 200mm Entfernung der Schallquellen verhaltet der Parabolspiegelmikron mit (Bedingung) so.....
 
-3-6 Welle ebenenheit(Grundlagen Akustik)
-
+3-6 Welle Ebenenheit(Grundlagen Akustik)
+Focal Length and f/D ratio 
